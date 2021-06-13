@@ -1,4 +1,4 @@
-# Fast-Robust-ICP
+# Fast-Robust-ICP (Welsch)
 
 This repository includes the source code the paper [Fast and Robust Iterative Closet Point](https://arxiv.org/abs/2007.07627).
 
